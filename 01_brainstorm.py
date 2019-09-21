@@ -1,0 +1,1 @@
+list_categories = ["metal objects", "wooden objects", "dangerous objects", "silver objects", "bright objects", "boring objects"]
